@@ -1,0 +1,201 @@
+document_id,clean_text,sentiment
+1,"It was okay, nothing special.",Neutral
+2,"Just average, nothing to rave about.",Neutral
+3,"Pretty good, but has some flaws.",Neutral
+4,Fantastic service and excellent product!,Positive
+5,"Just average, nothing to rave about.",Neutral
+6,"Terrible experience, would not buy again.",Negative
+7,"Meh, it’s alright, but I expected more.",Neutral
+8,"Meh, it’s alright, but I expected more.",Neutral
+9,Love it! Works perfectly as described.,Positive
+10,Customer support was very helpful.,Neutral
+11,"Pretty good, but has some flaws.",Neutral
+12,"Poorly made, broke within days.",Negative
+13,"Meh, it’s alright, but I expected more.",Neutral
+14,Exceeded my expectations!,Neutral
+15,"Completely disappointed, waste of money.",Negative
+16,Fantastic service and excellent product!,Positive
+17,"Poorly made, broke within days.",Negative
+18,Love it! Works perfectly as described.,Positive
+19,"It was okay, nothing special.",Neutral
+20,Customer support was very helpful.,Neutral
+21,Worst purchase I've ever made.,Negative
+22,"Pretty good, but has some flaws.",Neutral
+23,"Poorly made, broke within days.",Negative
+24,Would not recommend to anyone.,Neutral
+25,Fantastic service and excellent product!,Positive
+26,"Meh, it’s alright, but I expected more.",Neutral
+27,Not worth the price at all.,Neutral
+28,Love it! Works perfectly as described.,Positive
+29,"Completely disappointed, waste of money.",Negative
+30,Amazing quality and fast delivery!,Positive
+31,"Just average, nothing to rave about.",Neutral
+32,"Pretty good, but has some flaws.",Neutral
+33,Love it! Works perfectly as described.,Positive
+34,"Poorly made, broke within days.",Negative
+35,Exceeded my expectations!,Neutral
+36,"Completely disappointed, waste of money.",Negative
+37,Amazing quality and fast delivery!,Positive
+38,I absolutely loved this product! Highly recommend it.,Positive
+39,"Item arrived damaged, very frustrating.",Neutral
+40,"Superb experience, will buy again!",Positive
+41,Customer support was very helpful.,Neutral
+42,"It was okay, nothing special.",Neutral
+43,"Completely disappointed, waste of money.",Negative
+44,"It was okay, nothing special.",Neutral
+45,"Just average, nothing to rave about.",Neutral
+46,"Meh, it’s alright, but I expected more.",Neutral
+47,"Superb experience, will buy again!",Positive
+48,"It was okay, nothing special.",Neutral
+49,"Meh, it’s alright, but I expected more.",Neutral
+50,Exceeded my expectations!,Neutral
+51,Worst purchase I've ever made.,Negative
+52,Love it! Works perfectly as described.,Positive
+53,I absolutely loved this product! Highly recommend it.,Positive
+54,"Item arrived damaged, very frustrating.",Neutral
+55,Exceeded my expectations!,Neutral
+56,Customer support was very helpful.,Neutral
+57,"Superb experience, will buy again!",Positive
+58,I absolutely loved this product! Highly recommend it.,Positive
+59,Exceeded my expectations!,Neutral
+60,"It was okay, nothing special.",Neutral
+61,Customer support was very helpful.,Neutral
+62,"Just average, nothing to rave about.",Neutral
+63,"It was okay, nothing special.",Neutral
+64,Love it! Works perfectly as described.,Positive
+65,"Completely disappointed, waste of money.",Negative
+66,"Just average, nothing to rave about.",Neutral
+67,Customer support was very helpful.,Neutral
+68,Not worth the price at all.,Neutral
+69,Customer support was very helpful.,Neutral
+70,"Just average, nothing to rave about.",Neutral
+71,"Item arrived damaged, very frustrating.",Neutral
+72,"Terrible experience, would not buy again.",Negative
+73,Would not recommend to anyone.,Neutral
+74,"Just average, nothing to rave about.",Neutral
+75,Not worth the price at all.,Neutral
+76,Not worth the price at all.,Neutral
+77,I absolutely loved this product! Highly recommend it.,Positive
+78,"Meh, it’s alright, but I expected more.",Neutral
+79,"Completely disappointed, waste of money.",Negative
+80,Exceeded my expectations!,Neutral
+81,"Meh, it’s alright, but I expected more.",Neutral
+82,"Poorly made, broke within days.",Negative
+83,Would not recommend to anyone.,Neutral
+84,"Terrible experience, would not buy again.",Negative
+85,Love it! Works perfectly as described.,Positive
+86,Not worth the price at all.,Neutral
+87,"Decent, but I've seen better.",Neutral
+88,"Meh, it’s alright, but I expected more.",Neutral
+89,Love it! Works perfectly as described.,Positive
+90,Fantastic service and excellent product!,Positive
+91,"Superb experience, will buy again!",Positive
+92,Would not recommend to anyone.,Neutral
+93,Amazing quality and fast delivery!,Positive
+94,"Just average, nothing to rave about.",Neutral
+95,Amazing quality and fast delivery!,Positive
+96,Exceeded my expectations!,Neutral
+97,"Pretty good, but has some flaws.",Neutral
+98,Exceeded my expectations!,Neutral
+99,"Terrible experience, would not buy again.",Negative
+100,"Decent, but I've seen better.",Neutral
+101,Customer support was very helpful.,Neutral
+102,I absolutely loved this product! Highly recommend it.,Positive
+103,Amazing quality and fast delivery!,Positive
+104,"Item arrived damaged, very frustrating.",Neutral
+105,Amazing quality and fast delivery!,Positive
+106,"Pretty good, but has some flaws.",Neutral
+107,"Just average, nothing to rave about.",Neutral
+108,Not worth the price at all.,Neutral
+109,"Just average, nothing to rave about.",Neutral
+110,Not worth the price at all.,Neutral
+111,Great value for the price.,Positive
+112,Amazing quality and fast delivery!,Positive
+113,Amazing quality and fast delivery!,Positive
+114,Love it! Works perfectly as described.,Positive
+115,Amazing quality and fast delivery!,Positive
+116,Exceeded my expectations!,Neutral
+117,"Terrible experience, would not buy again.",Negative
+118,Not worth the price at all.,Neutral
+119,Amazing quality and fast delivery!,Positive
+120,"Superb experience, will buy again!",Positive
+121,"Item arrived damaged, very frustrating.",Neutral
+122,Customer support was very helpful.,Neutral
+123,I absolutely loved this product! Highly recommend it.,Positive
+124,Amazing quality and fast delivery!,Positive
+125,"Completely disappointed, waste of money.",Negative
+126,Would not recommend to anyone.,Neutral
+127,"Meh, it’s alright, but I expected more.",Neutral
+128,Would not recommend to anyone.,Neutral
+129,Not worth the price at all.,Neutral
+130,"Meh, it’s alright, but I expected more.",Neutral
+131,Love it! Works perfectly as described.,Positive
+132,Would not recommend to anyone.,Neutral
+133,Exceeded my expectations!,Neutral
+134,"Just average, nothing to rave about.",Neutral
+135,Not worth the price at all.,Neutral
+136,"Poorly made, broke within days.",Negative
+137,"Terrible experience, would not buy again.",Negative
+138,Worst purchase I've ever made.,Negative
+139,Exceeded my expectations!,Neutral
+140,"Terrible experience, would not buy again.",Negative
+141,Worst purchase I've ever made.,Negative
+142,Not worth the price at all.,Neutral
+143,Worst purchase I've ever made.,Negative
+144,I absolutely loved this product! Highly recommend it.,Positive
+145,Great value for the price.,Positive
+146,Love it! Works perfectly as described.,Positive
+147,Not worth the price at all.,Neutral
+148,"Poorly made, broke within days.",Negative
+149,Worst purchase I've ever made.,Negative
+150,"Item arrived damaged, very frustrating.",Neutral
+151,"Poorly made, broke within days.",Negative
+152,"Superb experience, will buy again!",Positive
+153,Great value for the price.,Positive
+154,Would not recommend to anyone.,Neutral
+155,Not worth the price at all.,Neutral
+156,"Pretty good, but has some flaws.",Neutral
+157,"Superb experience, will buy again!",Positive
+158,"Decent, but I've seen better.",Neutral
+159,Worst purchase I've ever made.,Negative
+160,Worst purchase I've ever made.,Negative
+161,"Just average, nothing to rave about.",Neutral
+162,Customer support was very helpful.,Neutral
+163,Worst purchase I've ever made.,Negative
+164,Would not recommend to anyone.,Neutral
+165,Customer support was very helpful.,Neutral
+166,"Poorly made, broke within days.",Negative
+167,"It was okay, nothing special.",Neutral
+168,"Superb experience, will buy again!",Positive
+169,"It was okay, nothing special.",Neutral
+170,Worst purchase I've ever made.,Negative
+171,"Poorly made, broke within days.",Negative
+172,Great value for the price.,Positive
+173,Amazing quality and fast delivery!,Positive
+174,"Meh, it’s alright, but I expected more.",Neutral
+175,"Poorly made, broke within days.",Negative
+176,"Item arrived damaged, very frustrating.",Neutral
+177,Not worth the price at all.,Neutral
+178,"Just average, nothing to rave about.",Neutral
+179,Great value for the price.,Positive
+180,"Terrible experience, would not buy again.",Negative
+181,Worst purchase I've ever made.,Negative
+182,"Item arrived damaged, very frustrating.",Neutral
+183,Love it! Works perfectly as described.,Positive
+184,Worst purchase I've ever made.,Negative
+185,"Poorly made, broke within days.",Negative
+186,"Completely disappointed, waste of money.",Negative
+187,"It was okay, nothing special.",Neutral
+188,"Meh, it’s alright, but I expected more.",Neutral
+189,Customer support was very helpful.,Neutral
+190,Fantastic service and excellent product!,Positive
+191,Customer support was very helpful.,Neutral
+192,Would not recommend to anyone.,Neutral
+193,"Decent, but I've seen better.",Neutral
+194,Love it! Works perfectly as described.,Positive
+195,"Decent, but I've seen better.",Neutral
+196,Not worth the price at all.,Neutral
+197,Amazing quality and fast delivery!,Positive
+198,Amazing quality and fast delivery!,Positive
+199,Amazing quality and fast delivery!,Positive
+200,"Decent, but I've seen better.",Neutral
